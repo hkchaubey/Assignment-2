@@ -1,0 +1,52 @@
+h1{
+	
+   text-align:center;
+   color:Red;
+   background:green;
+   font-size: 3em;
+  
+}
+
+h2{
+	color:red;
+	font-size: 50px;
+	background:pink;
+	
+}
+
+ul li{
+	list-style-type:circle;
+	color:red;
+	
+}
+
+q{
+	color:Green;
+	font-size:2em;
+}
+	
+ol li{
+	list-style-type:decimal;
+	color:green
+	text-align:center;
+}
+
+u{
+	color:black;
+}
+
+h3{
+	color:purple;
+	font-size: 20px;
+}
+p{
+	color:red;
+	font-size:40px;
+}
+ul,ol { line-height:1.7em;
+        margin-left: 10px;
+		}
+
+
+
+
